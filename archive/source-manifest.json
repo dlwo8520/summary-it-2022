@@ -1,0 +1,41 @@
+{
+  "project_created": "2022-10",
+  "backup": "news_summery_original_20261016.zip",
+  "files": [
+    {
+      "source": "blog/templates/blog/home.html",
+      "path": "archive/templates/home.html",
+      "sha256": "52e0f1c5ddff4f9cbd12e9fca17cc7a605dce5c1a282ad24adc256143c7db2cf"
+    },
+    {
+      "source": "blog/templates/blog/kr.html",
+      "path": "archive/templates/kr.html",
+      "sha256": "fc89cfd24b0a83407bf2707545e239c58b42f39ee9976db0545b3133507fefc1"
+    },
+    {
+      "source": "blog/templates/blog/en.html",
+      "path": "archive/templates/en.html",
+      "sha256": "a9d7a93495e9ba61b5f7ed878a1ff8e6d6571c737c9f0f6b0b30a167269db646"
+    },
+    {
+      "source": "blog/static/js/scripts.js",
+      "path": "archive/scripts.js",
+      "sha256": "bd2cc663cff61f1f1fddf1e6715050d1fd93b9c0200ad96c1d1e9f8568097910"
+    },
+    {
+      "source": "blog/static/css/styles.css",
+      "path": "docs/assets/css/styles.css",
+      "sha256": "787fe047bb32f829a4d4aeba68d42af8811a82f477a91a58b558fb03605f36e7"
+    },
+    {
+      "source": "blog/static/assets/img/home-bg.jpg",
+      "path": "docs/assets/img/home-bg.jpg",
+      "sha256": "b0c2990966a32dbf3fe4ed7f2bafcd37428e9808c660950e66c70a808aab6ab4"
+    },
+    {
+      "source": "blog/static/assets/favicon.ico",
+      "path": "docs/assets/favicon.ico",
+      "sha256": "8b1060f193768c55bc48dede8ba8da9be6c93f8e6dcae946e36f1a8956b7269b"
+    }
+  ]
+}

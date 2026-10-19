@@ -1,0 +1,6 @@
+* text=auto eol=lf
+archive/** -text
+docs/assets/css/styles.css -text
+*.jpg binary
+*.ico binary
+*.woff2 binary

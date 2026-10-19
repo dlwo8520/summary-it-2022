@@ -1,0 +1,29 @@
+{
+  "kr": {
+    "id": "library",
+    "language": "kr",
+    "category": "일상 · 공간",
+    "label": "동네 도서관",
+    "title": "책을 빌리는 곳에서, 함께 머무는 곳으로",
+    "source": "가상의 작은 도시 솔빛시는 오래된 동네 도서관을 주민들이 함께 머무는 공간으로 바꾸는 시범 사업을 시작했다. 도서관 1층에는 조용한 독서 공간과 분리된 대화 구역을 마련하고, 사용하지 않던 창고는 주민 모임을 위한 작은 회의실로 고쳤다.\n\n운영 시간도 달라졌다. 평일 저녁에 도서관을 찾기 어려웠던 직장인과 학생을 위해 매주 수요일과 금요일에는 밤 9시까지 문을 연다. 토요일 오전에는 어린이와 보호자가 함께 참여하는 책 읽기 프로그램을 운영한다. 참여 신청은 도서관 안내 데스크에서 받으며 모든 프로그램은 무료다.\n\n도서관은 공간을 바꾸는 데서 그치지 않고 이용자들의 의견도 꾸준히 모을 계획이다. 시범 운영 기간인 석 달 동안 방문 인원과 공간 이용 시간을 살펴보고, 주민 설문을 통해 개선할 점을 확인한다. 담당자는 책을 대여하는 기능을 유지하면서도 누구나 편하게 머물 수 있는 동네의 공용 거실을 만드는 것이 목표라고 설명했다.",
+    "summary": "가상의 작은 도시 솔빛시는 오래된 동네 도서관을 주민들이 함께 머무는 공간으로 바꾸는 시범 사업을 시작했다.",
+    "model": "KoBART"
+  },
+  "en": {
+    "id": "repair",
+    "language": "en",
+    "category": "COMMUNITY · EVERYDAY",
+    "label": "The repair café",
+    "title": "A second life for everyday things",
+    "source": "In the fictional town of Willow Bay, a volunteer group has opened a monthly repair café in the community hall. Residents can bring small household items such as lamps, chairs and clothing, and work alongside volunteers to understand what went wrong. The group does not repair large electrical appliances or items that require specialist safety checks.\n\nThe café is designed as a place to learn, rather than a drop-off repair service. Visitors stay with their belongings while volunteers explain basic tools and techniques. Spare parts are used when available, and residents are told in advance if a replacement part needs to be purchased. No one is charged for the volunteers’ time.\n\nOrganizers hope the café will help neighbors share practical skills and reduce the number of usable objects thrown away. They also keep an anonymous record of the types of items brought in, so future workshops can focus on the most common problems. After three trial sessions, the group plans to ask visitors and volunteers whether the schedule and format should change.",
+    "summary": "Residents can bring small household items such as lamps, chairs and clothing. Visitors stay with their belongings while volunteers explain basic tools and techniques. Spare parts are used when available, and residents are told in advance if a replacement part needs to be purchased. No one is charged for the volunteers’ time.",
+    "model": "BART",
+    "translation": "주민들은 전등, 의자, 의류 등 작은 생활용품을 가져올 수 있다. 방문자는 자신의 물건을 곁에 두고 자원봉사자에게 기본 도구와 수리 방법을 배운다. 부품이 있으면 활용하고, 교체 부품을 구매해야 할 때는 미리 안내한다. 자원봉사자의 작업 시간에 대한 비용은 받지 않는다."
+  },
+  "_provenance": {
+    "project_year": 2022,
+    "examples_prepared": "2026-10-19",
+    "note": "Original illustrative texts and outputs from the existing local models, prepared for this static restoration. These are not historical records from 2022.",
+    "translation_note": "The Korean translation of the English summary is a manually prepared fixed illustration. No translation service is used."
+  }
+}
